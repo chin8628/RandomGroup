@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hero{
+	margin-top:50px;
+}
+
+.credit{
+	position:fixed;
+	right:20px;
+	bottom:20px;
+}
+
+
